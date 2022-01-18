@@ -29,6 +29,8 @@ decisions regarding their future budget and priorities. Given dataset of student
 
 # Report summary in table format
 
+District Summary ![District_summary](https://user-images.githubusercontent.com/84547558/149879420-12b100c0-345a-4ef2-bec3-59c836cd6e1c.png)
+
 
 
 
