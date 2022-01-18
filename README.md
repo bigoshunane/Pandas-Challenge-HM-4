@@ -9,7 +9,7 @@ decisions regarding their future budget and priorities. Given dataset of student
 
 . School Summary
 
-. Top 5 Performing Schools (By % Overall Passing)
+. Top five performing Schools (By % Overall Passing)
 
 . Bottom five performing Schools (By % Overall Passing)
 
@@ -26,13 +26,27 @@ decisions regarding their future budget and priorities. Given dataset of student
       
 . Analysis
 
-
 # Report summary in table format
 
 District Summary ![District_summary](https://user-images.githubusercontent.com/84547558/149879420-12b100c0-345a-4ef2-bec3-59c836cd6e1c.png)
 
- School Summary ![Screen Shot 2022-01-17 at 10 01 53 PM](https://user-images.githubusercontent.com/84547558/149879767-83e01aa6-6355-4b78-b951-902369f0d7e0.png)
+School Summary ![school_summary](https://user-images.githubusercontent.com/84547558/149879978-e41471d7-dd4f-412a-92f5-f5d6d2d94dd9.png)
 
+
+Top five performing Schools (By % Overall Passing)![passing](https://user-images.githubusercontent.com/84547558/149880133-f0632908-6880-4815-97c4-be9dfe9e1f2d.png)
+
+Bottom five performing Schools (By % Overall Passing)![performance](https://user-images.githubusercontent.com/84547558/149880335-234e44c1-4c65-4888-9a3c-b13d8ed9822a.png)
+
+Bottom five performing Schools (By % Overall Passing)![bottom](https://user-images.githubusercontent.com/84547558/149880628-ae04f0c5-d9a8-43f8-aeaf-0026861aad34.png)
+
+Scores by grade (9th to 12th)![reading](https://user-images.githubusercontent.com/84547558/149880763-03114ceb-93d3-4ac6-b603-e145693ac18b.png)
+
+
+# Analysis
+
+The lesser budget the school spending per student the better performance scored by the students in both reading and math with higher percentage of overall passing and vice versa. 
+
+The school size of 1000 to 2000 
 
 
 
