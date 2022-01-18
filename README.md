@@ -2,7 +2,7 @@
 
 The aim of this project is to utilize python library pandas on Jupyter notebook and develop solution to help school board and mayor of local district make strategic decisions regarding their future budget and priorities. Given dataset of students’ math and reading scores and other information such as size, budget, types et.al of schools they attend.
 
-The City School dataset are found in repository with folder name resources and developed computing solution by pandas on juypter is found in PyCityschools folder.
+The City School dataset are found in repository with folder named resources and developed computing solution by pandas on juypter is found in PyCityschools folder.
 
 # Final report includes the following:
 
