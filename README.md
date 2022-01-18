@@ -9,9 +9,9 @@ decisions regarding their future budget and priorities. Given dataset of student
 
 . School Summary
 
-. Top five performing Schools (By % Overall Passing)
+. Top five performing Schools (by % Overall Passing)
 
-. Bottom five performing Schools (By % Overall Passing)
+. Bottom five performing Schools (by % Overall Passing)
 
 . Scores by grade (9th to 12th)
 
@@ -37,17 +37,13 @@ School Summary
 ![school_summary](https://user-images.githubusercontent.com/84547558/149879978-e41471d7-dd4f-412a-92f5-f5d6d2d94dd9.png)
 
 
-Top five performing Schools (By % Overall Passing) 
+Top five performing Schools (by % Overall Passing) 
       
 ![passing](https://user-images.githubusercontent.com/84547558/149880133-f0632908-6880-4815-97c4-be9dfe9e1f2d.png)
 
-Bottom five performing Schools (By % Overall Passing)
+Bottom five performing Schools (by % Overall Passing)
 
 ![performance](https://user-images.githubusercontent.com/84547558/149880335-234e44c1-4c65-4888-9a3c-b13d8ed9822a.png)
-
-Bottom five performing Schools (By % Overall Passing)
-
-![bottom](https://user-images.githubusercontent.com/84547558/149880628-ae04f0c5-d9a8-43f8-aeaf-0026861aad34.png)
 
 Scores by grade (9th to 12th)
 
