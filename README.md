@@ -38,7 +38,7 @@ School Summary
 
 
 Top five performing Schools (By % Overall Passing) 
-
+      
 ![passing](https://user-images.githubusercontent.com/84547558/149880133-f0632908-6880-4815-97c4-be9dfe9e1f2d.png)
 
 Bottom five performing Schools (By % Overall Passing)
@@ -51,14 +51,37 @@ Bottom five performing Schools (By % Overall Passing)
 
 Scores by grade (9th to 12th)
 
-![reading](https://user-images.githubusercontent.com/84547558/149880763-03114ceb-93d3-4ac6-b603-e145693ac18b.png)
+            . Math scores
+            
+![math](https://user-images.githubusercontent.com/84547558/149884390-b55982d1-9ba7-483e-b702-c8146d460d6c.png)
 
+            . Reading scores
+     
+![reading](https://user-images.githubusercontent.com/84547558/149880763-03114ceb-93d3-4ac6-b603-e145693ac18b.png)
+      
+Scores by different categories
+
+           . School Spending
+           
+![spendin](https://user-images.githubusercontent.com/84547558/149884567-ed354803-3a6f-4804-aab4-5100f68033a8.png)
+
+           . School Size
+    
+![size](https://user-images.githubusercontent.com/84547558/149884781-951259cd-a71b-4d4f-a44f-9163e738b689.png)
+    
+          . School Type
+          
+ ![typ](https://user-images.githubusercontent.com/84547558/149884997-b9796153-7565-4723-b801-425501538bbb.png)
+         
 
 # Analysis
+From computed values and generated tables of given dataset of the city school the following conclusions have been drawn:
 
 The lesser budget the school spending per student the better performance scored by the students in both reading and math with higher percentage of overall passing and vice versa. 
 
-The school size of 1000 to 2000 
+The school size of 1000 to 2000 students have shown better performance in their students grade scores and percentage of overall passing while school size of 2000 to 5000 performed fairly satisfacory but requires more attention for improvement.
+
+Students in charter schools showed higher performance in both scoring grades and percentage of overall passing while those in distric school performed moderate and therefore requires more attention in helping them improve thier performances. 
 
 
 
