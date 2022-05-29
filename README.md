@@ -1,10 +1,10 @@
-# Pandas_Challenge_HM4
+# School District Data Analysis
 
 The aim of this project is to utilize python library pandas on Jupyter notebook and develop solution to help school board and mayor of local district make strategic decisions regarding their future budget and priorities. Given dataset of students’ math and reading scores and other information such as size, budget, types et.al of schools they attend.
 
 The City School dataset are found in repository with folder named resources and developed computing solution by pandas on juypter is found in PyCityschools folder.
 
-# Final report includes the following:
+## Final report includes the following:
 
 . District Summary
 
@@ -27,7 +27,7 @@ The City School dataset are found in repository with folder named resources and 
       
 . Analysis
 
-# Report summary in table format
+## Report summary in table format
 
 District Summary 
 
@@ -71,7 +71,7 @@ Scores by different categories
  ![typ](https://user-images.githubusercontent.com/84547558/149884997-b9796153-7565-4723-b801-425501538bbb.png)
          
 
-# Analysis
+## Analysis
 From computed values and generated tables of given dataset of the city school the following conclusions have been drawn:
 
 The lesser budget the school spending per student the better performance scored by the students in both reading and math with higher percentage of overall passing and vice versa. 
