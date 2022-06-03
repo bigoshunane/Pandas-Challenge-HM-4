@@ -1,31 +1,26 @@
 # School District Data Analysis
+## Background
+Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this assignment, you'll need to complete one of two (not both)  Data Challenges. Once again, which challenge you take on is your choice. Just be sure to give it your all -- as the skills you hone will become powerful tools in your data analytics tool belt.
 
+## Objective
 The aim of this project is to utilize python library pandas on Jupyter notebook and develop solution to help school board and mayor of local district make strategic decisions regarding their future budget and priorities. Given dataset of students’ math and reading scores and other information such as size, budget, types et.al of schools they attend.
 
 The City School dataset are found in repository with folder named resources and developed computing solution by pandas on juypter is found in PyCityschools folder.
 
 ## Final report includes the following:
-
-. District Summary
-
-. School Summary
-
-. Top five performing Schools (by % Overall Passing)
-
-. Bottom five performing Schools (by % Overall Passing)
-
-. Scores by grade (9th to 12th)
-
-      . Math scores
-      . Reading scores
+-  District Summary
+-  School Summary
+-  Top five performing Schools (by % Overall Passing)
+-  Bottom five performing Schools (by % Overall Passing)
+-  Scores by grade (9th to 12th)
+  -  Math scores
+  -  Reading scores
+-  Scores by different categories
+  -  School Spending
+  -  School Size
+  -  School Type
       
-. Scores by different categories
-
-      . School Spending
-      . School Size
-      . School Type
-      
-. Analysis
+-  Analysis
 
 ## Report summary in table format
 
@@ -48,25 +43,25 @@ Bottom five performing Schools (by % Overall Passing)
 
 Scores by grade (9th to 12th)
 
-            . Math scores
+-  Math scores
             
 ![math](https://user-images.githubusercontent.com/84547558/149884390-b55982d1-9ba7-483e-b702-c8146d460d6c.png)
 
-            . Reading scores
+-  Reading scores
      
 ![reading](https://user-images.githubusercontent.com/84547558/149880763-03114ceb-93d3-4ac6-b603-e145693ac18b.png)
       
 Scores by different categories
 
-           . School Spending
+-  School Spending
            
 ![spendin](https://user-images.githubusercontent.com/84547558/149884567-ed354803-3a6f-4804-aab4-5100f68033a8.png)
 
-           . School Size
+-  School Size
     
 ![size](https://user-images.githubusercontent.com/84547558/149884781-951259cd-a71b-4d4f-a44f-9163e738b689.png)
     
-          . School Type
+-  School Type
           
  ![typ](https://user-images.githubusercontent.com/84547558/149884997-b9796153-7565-4723-b801-425501538bbb.png)
          
@@ -80,5 +75,5 @@ The school size of 1000 to 2000 students have shown better performance in their 
 
 Students in charter schools showed higher performance in both scoring grades and percentage of overall passing while those in distric school performed moderate and therefore requires more attention in helping them improve thier performances. 
 
-
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
