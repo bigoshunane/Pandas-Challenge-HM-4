@@ -1,6 +1,6 @@
 # School District Data Analysis
 ## Background
-Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this assignment, you'll need to complete one of two (not both)  Data Challenges. Once again, which challenge you take on is your choice. Just be sure to give it your all -- as the skills you hone will become powerful tools in your data analytics tool belt.
+Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this assignment, you'll need to complete one of two (not both)  Data Challenges. Once again, which challenge you take on is your choice. Just be sure to give it your all as the skills you hone will become powerful tools in your data analytics tool belt.
 
 ## Objective
 The aim of this project is to utilize python library pandas on Jupyter notebook and develop solution to help school board and mayor of local district make strategic decisions regarding their future budget and priorities. Given dataset of students’ math and reading scores and other information such as size, budget, types et.al of schools they attend.
@@ -24,30 +24,30 @@ The City School dataset are found in repository with folder named resources and 
 
 ## Report summary in table format
 
-District Summary 
+-  District Summary 
 
 ![District_summary](https://user-images.githubusercontent.com/84547558/149879420-12b100c0-345a-4ef2-bec3-59c836cd6e1c.png)
 
-School Summary
+-  School Summary
 
 ![school_summary](https://user-images.githubusercontent.com/84547558/149879978-e41471d7-dd4f-412a-92f5-f5d6d2d94dd9.png)
 
 
-Top five performing Schools (by % Overall Passing) 
+-  Top five performing Schools (by % Overall Passing) 
       
 ![passing](https://user-images.githubusercontent.com/84547558/149880133-f0632908-6880-4815-97c4-be9dfe9e1f2d.png)
 
-Bottom five performing Schools (by % Overall Passing)
+-  Bottom five performing Schools (by % Overall Passing)
 
 ![performance](https://user-images.githubusercontent.com/84547558/149880335-234e44c1-4c65-4888-9a3c-b13d8ed9822a.png)
 
-Scores by grade (9th to 12th)
+-  Scores by grade (9th to 12th)
 
--  Math scores
+    -  Math scores
             
 ![math](https://user-images.githubusercontent.com/84547558/149884390-b55982d1-9ba7-483e-b702-c8146d460d6c.png)
 
--  Reading scores
+   -  Reading scores
      
 ![reading](https://user-images.githubusercontent.com/84547558/149880763-03114ceb-93d3-4ac6-b603-e145693ac18b.png)
       
