@@ -13,14 +13,14 @@ The City School dataset are found in repository with folder named resources and 
 -  Top five performing Schools (by % Overall Passing)
 -  Bottom five performing Schools (by % Overall Passing)
 -  Scores by grade (9th to 12th)
-  -  Math scores
-  -  Reading scores
+   -  Math scores
+   -  Reading scores
+  
 -  Scores by different categories
-  -  School Spending
-  -  School Size
-  -  School Type
+    -  School Spending
+    -  School Size
+    -  School Type
       
--  Analysis
 
 ## Report summary in table format
 
@@ -51,9 +51,9 @@ Scores by grade (9th to 12th)
      
 ![reading](https://user-images.githubusercontent.com/84547558/149880763-03114ceb-93d3-4ac6-b603-e145693ac18b.png)
       
-Scores by different categories
+-  Scores by different categories
 
--  School Spending
+    -  School Spending
            
 ![spendin](https://user-images.githubusercontent.com/84547558/149884567-ed354803-3a6f-4804-aab4-5100f68033a8.png)
 
